@@ -35,9 +35,14 @@ Video-Compressor is a Python application with Tkinter GUI that compresses videos
   - `opencv-python`
   - `pillow`
   - `tkinterdnd2`
+    
   ```python
   pip install opencv-python pillow tkinterdnd2
   ```
+or 
+```python
+pip install -r requirements.txt
+```
 
 ## Repository Structure
 ```bash
