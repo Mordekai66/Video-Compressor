@@ -60,6 +60,7 @@ Video-Compressor/
 - Check file permissions
 - Verify supported formats
 - Monitor system resources
+- Video file names should not contain spaces.
 
 ## License
 MIT License - see `LICENSE`
