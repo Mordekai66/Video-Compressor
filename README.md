@@ -1,4 +1,11 @@
 # Video-Compressor
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-007808?logo=ffmpeg&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-306998?logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-40A5E6?logo=pillow&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Compatible-0078D6?logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-4DA51F?logo=opensourceinitiative&logoColor=white)
+
 Video-Compressor is a Python application with Tkinter GUI that compresses videos while maintaining quality using FFmpeg.
 
 ## Features
